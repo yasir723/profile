@@ -13,23 +13,19 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_r1wi/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/motazsoftware)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yasir7_23/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alrawi/)
 
 # 💻 Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![C# MVC ASP.NET Core](https://img.shields.io/badge/C%23%20MVC%20ASP.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/streamlit-%23092E20.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Tkinter](https://img.shields.io/badge/tkinter-%23092E20.svg?style=for-the-badge&logo=tkinter&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-
+![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-ff1709?style=for-the-badge&logo=php&logoColor=white&color=ff1709&labelColor=gray) 
-![PHP-Laravel](https://img.shields.io/badge/Laravel-ff1709?style=for-the-badge&logo=Laravel&logoColor=white&color=ff1709&labelColor=gray) 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-4479A1.svg?style=for-the-badge&logo=SQLite&logoColor=white) 
